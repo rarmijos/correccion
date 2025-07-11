@@ -161,3 +161,15 @@ body {
     border: none;
 }
 
+.registro{
+    margin-top: 10px;
+}
+
+.inicio{
+    margin-top: 20px;
+}
+
+.caja{
+    height: 300px;
+    width: 300px;
+}
